@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Github-Finder/static/css/main.058f8b34.css",
+    "main.js": "/React-Github-Finder/static/js/main.47eefc48.js",
+    "static/js/787.7cdb18ce.chunk.js": "/React-Github-Finder/static/js/787.7cdb18ce.chunk.js",
+    "static/media/spinner.gif": "/React-Github-Finder/static/media/spinner.e2ffacc949faa6aeba7c.gif",
+    "index.html": "/React-Github-Finder/index.html",
+    "main.058f8b34.css.map": "/React-Github-Finder/static/css/main.058f8b34.css.map",
+    "main.47eefc48.js.map": "/React-Github-Finder/static/js/main.47eefc48.js.map",
+    "787.7cdb18ce.chunk.js.map": "/React-Github-Finder/static/js/787.7cdb18ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.058f8b34.css",
+    "static/js/main.47eefc48.js"
+  ]
+}
